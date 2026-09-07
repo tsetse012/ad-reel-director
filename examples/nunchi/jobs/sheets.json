@@ -1,0 +1,21 @@
+{
+ "out_dir": "out/sheets",
+ "size": "1536x1024",
+ "quality": "high",
+ "prefix": "",
+ "jobs": {
+  "woman": {
+   "prompt": "Reference handling: the attached photos are a PHOTOGRAPHIC IDENTITY reference of the young woman — keep that exact person's face, age, bone structure, long dark slightly wavy hair, and costume (oversized heather-grey cotton t-shirt, dark grey lounge shorts, bare feet, a smartphone). Ignore the bedroom lighting; render on a neutral cyclorama.\n\nCharacter: Korean woman, mid-twenties, soft oval face, warm dark-brown eyes, natural no-makeup night skin, expressive — her face carries the whole story (anxious hope, doubt, sudden relief, laughter). Ordinary and believable, not a model.\n\nPHOTOREALISTIC reference sheet arranged as a clean MULTI-PANEL grid, 16:9 horizontal, shot on a real camera with film grain — NOT illustration, NOT 3D render, no beauty filter, no glossy AI skin. NO text, NO labels, NO arrows, NO watermark, NO extra characters. Panels for the SAME character: bust portrait (large, three-quarter, neutral-hopeful expression, lips slightly parted), front full-body standing, three-quarter full-body, side profile, back, lying on her back holding the phone above her face, sitting up cross-legged hugging her knees, three expression close-ups in a row: worried-doubtful / eyes-closed relief with a suppressed smile / open laugh, hand holding the phone close-up. Keep face, hair, costume IDENTICAL in every panel. The bust/face portrait panel must occupy 25-30% of the whole sheet and be slightly OFF-FRONTAL (three-quarter). Eyes: iris color clearly readable, never crushed to black, with a visible catchlight in both eyes. Naturally asymmetric, never mirrored. PLAIN seamless light gray (#d2d2d2) studio cyclorama, soft even studio light, no rim light, no colored light.",
+   "refs": [
+    "out/concepts/01_bed_night_woman.png",
+    "out/sheets/ref_lead_crop.png"
+   ]
+  },
+  "room": {
+   "prompt": "Reference handling: the attached photo defines the LOCATION — a small Korean one-room apartment at night: a single bed with a beige duvet and plaid pillow, a warm yellow desk lamp on a small bedside shelf, a brown teddy-bear plush, a snack bag, faint string lights, a window with a dark night outside, a small desk and mirror further away. NO people in this sheet.\n\nLocation reference sheet, night: the only lights are the warm desk lamp, the faint string lights and a cool blue-ish spill from a phone left glowing on the duvet; deep soft shadows, cozy, intimate. PHOTOREALISTIC reference sheet arranged as a clean MULTI-PANEL grid, 16:9 horizontal, shot on a real camera with film grain — NOT illustration, NOT 3D render, no beauty filter, no glossy AI skin. NO text, NO labels, NO arrows, NO watermark, NO extra characters. Panels of the SAME room: wide shot from the foot of the bed toward the pillow and lamp (large), reverse angle from the pillow toward the window and desk, low angle across the duvet at pillow height, the lamp and shelf with the plush detail, the string lights and window detail, a four-panel strip turning around the room (bed / window / desk-mirror / door). Photoreal, handheld 35mm film look, slight grain, warm-cool mixed night light.",
+   "refs": [
+    "out/concepts/01_bed_night_woman.png"
+   ]
+  }
+ }
+}

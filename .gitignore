@@ -1,0 +1,11 @@
+.env
+out/
+*.mp4
+*.mov
+*.mp3
+*.wav
+__pycache__/
+.omc/
+.claude/
+.DS_Store
+.playwright-mcp/

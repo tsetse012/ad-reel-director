@@ -1,0 +1,40 @@
+{
+ "out_dir": "out/keyframes",
+ "size": "1152x2048",
+ "quality": "high",
+ "prefix": "IDENTITY LOCK — the lead is EXACTLY the woman in the reference photos: Korean, mid-twenties, soft oval face, long dark slightly wavy hair, warm dark-brown eyes, no makeup, oversized heather-grey t-shirt, dark grey lounge shorts, bare feet, black smartphone. Keep her identity identical to the references. Cinematic live-action film still, vertical 9:16, handheld camera (slight tilt, natural imperfection), 35mm lens, subtle film grain. Location: the SAME small Korean one-room apartment at night as the room reference — single bed with beige duvet and plaid pillow, warm yellow desk lamp on the bedside shelf, brown teddy-bear plush, snack bag, faint string lights, dark window. Light: only the warm desk lamp, faint string lights, and the cool bluish-purple glow of the phone screen on her face; deep soft shadows, cozy and intimate. Mood: relatable, a little anxious, warm and funny — a heartfelt commercial for an app that reads whether your crush likes you back. Photorealistic, natural skin, real fabric. Absolutely no text, no captions, no logos, no watermark, no borders.",
+ "jobs": {
+  "kf2_paste": {
+   "prompt": "Image 1 = the lead woman's face. Image 2 = her lying pose. Image 3 = the room (reverse angle toward the window and desk). SHOT: over-the-shoulder medium shot from behind and above her, handheld. She has rolled onto her side on the bed facing the lamp, propped on one elbow, holding the phone in both hands close to her face, thumb pressing the screen — mid long-press, about to copy a chat. Her face in three-quarter, lit from below by the phone's cool glow and from the side by the warm lamp: hopeful doubt, lips slightly parted, brows a little raised — NOT frowning, NOT grimacing. The phone screen shows only a vague dark chat layout with soft bubble shapes, no readable text. The plaid pillow and teddy bear in the soft foreground.",
+   "refs": [
+    "out/sheets/panels/woman_portrait.png",
+    "out/sheets/panels/woman_lying.png",
+    "out/sheets/panels/room_reverse.png"
+   ]
+  },
+  "kf3_score": {
+   "prompt": "Image 1 = the lead woman (her hands and grey sleeve). Image 2 = the EXACT look of the app screen that must appear on the phone: a dark near-black screen with a thick circular progress ring in a purple-to-pink gradient (#8a4cfc to #ff67ad) and a large white number in the center. Image 3 = the room. SHOT: close-up over her shoulder of the black smartphone held in both hands above her as she lies on the bed, her grey sleeve and a strand of dark hair soft at the frame edge. The phone screen fills the middle of the frame and shows ONLY the dark background, the glowing purple-to-pink ring almost fully closed, and the big white number 72 in the center, with a soft pink bloom — no other words, buttons or labels anywhere on the screen. The screen's pink-purple glow reflects on her hands and the duvet; beyond the phone the warm lamp is a soft bokeh. Handheld, slightly tilted.",
+   "refs": [
+    "out/sheets/panels/woman_lying.png",
+    "out/sheets/panels/app_score_ring.png",
+    "out/sheets/panels/room_reverse.png"
+   ]
+  },
+  "kf4_relief": {
+   "prompt": "Image 1 = the lead woman's expressions (use the eyes-closed relief / laugh). Image 2 = her face. Image 3 = the room (wide from the foot of the bed). SHOT: medium shot, camera slightly below eye level at the side of the bed. She has flopped onto her back on the bed, hugging the phone to her chest with both hands, eyes squeezed shut, laughing openly with her head tipped back into the plaid pillow, hair spread out. The warm lamp lights her face from the side; the phone's pink glow leaks between her fingers onto her t-shirt. The teddy bear beside her. Her face is the largest element in the frame and clearly readable. Handheld, intimate, joyful relief.",
+   "refs": [
+    "out/sheets/panels/woman_expr_triptych.png",
+    "out/sheets/panels/woman_portrait.png",
+    "out/sheets/panels/room_wide.png"
+   ]
+  },
+  "kf5_wide": {
+   "prompt": "Images 1-2 = the lead woman (face, and sitting cross-legged hugging her knees). Image 3 = the room (wide from the foot of the bed toward the pillow and lamp). SHOT: wide shot from the foot of the bed, camera low and pulled back so the whole small room is visible. She sits up on the bed cross-legged hugging her knees, the phone placed face-up on the duvet in front of her still glowing faintly pink, her face turned toward the window with a small private smile. Warm lamp on the shelf, teddy bear, snack bag, string lights, the dark window, the desk and mirror at the edge. Lots of dark wall and ceiling at the top of the frame — quiet, hopeful ending frame with room at the top for a logo later. Handheld, slightly tilted.",
+   "refs": [
+    "out/sheets/panels/woman_portrait.png",
+    "out/sheets/panels/woman_sitting.png",
+    "out/sheets/panels/room_wide.png"
+   ]
+  }
+ }
+}

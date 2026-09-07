@@ -1,0 +1,26 @@
+{
+ "out_dir": "out/concepts",
+ "size": "1152x2048",
+ "quality": "high",
+ "prefix": "Cinematic live-action film still, vertical 9:16 frame, handheld camera (slight tilt, natural imperfection, 35mm lens, shallow but not extreme depth of field, subtle film grain). Korea, present day. Mood: intimate, relatable, a little anxious but warm and funny — like a heartfelt commercial for an app that reads whether your crush likes you back. The lead is alone with their smartphone, mid-'is this a good sign or not?' moment: reading a KakaoTalk chat, phone held close, face lit partly by the screen. The face is clearly visible and genuinely expressive (not a model pose): a mix of hope, doubt, and a suppressed smile. The phone screen is visible only as a soft glow or a vague chat layout — no readable text. Photorealistic, natural skin texture, real fabric. Absolutely no text, no captions, no logos, no UI overlay, no watermark, no borders.",
+ "jobs": {
+  "01_bed_night_woman": {
+   "prompt": "Place & time: a small one-room apartment at night, lying on her back on the bed under a soft yellow desk lamp, phone held up above her face, a plush toy and a half-eaten snack nearby, string lights faintly in the background. Lead: woman in her mid-twenties, long dark hair spread on the pillow, oversized grey t-shirt, biting her lower lip while squinting at the phone with hopeful doubt. Camera from directly beside the pillow, low and close."
+  },
+  "02_cafe_afternoon_woman": {
+   "prompt": "Place & time: a sunny neighborhood cafe in the late afternoon, window seat, an iced latte with melting ice, a laptop half-closed, warm sun stripes through blinds. Lead: woman in her late twenties, bob haircut, beige blazer over a white tee, office worker on a break, chin resting on one hand, phone in the other, eyebrows raised in a 'wait, what does that mean?' expression with a tiny smile. Camera across the table, slightly below eye level."
+  },
+  "03_bus_evening_woman": {
+   "prompt": "Place & time: a city bus at dusk on the way home, window seat, city lights blurring past, warm interior lights, earphones in. Lead: woman in her early twenties, university student, ponytail, hoodie and a backpack on her lap, hugging the phone close to her chest after reading a message, eyes closed, a giant giddy smile she is trying to hide. Camera from the aisle, handheld, close."
+  },
+  "04_office_rooftop_man": {
+   "prompt": "Place & time: an office building rooftop at lunch, noon light, a can of coffee on the ledge, city skyline soft in the background, wind in the hair. Lead: man in his late twenties, neat short hair, shirt sleeves rolled up, lanyard ID badge, leaning on the railing reading his phone with a puzzled frown that is turning into a hopeful grin. Camera beside him at the railing, handheld."
+  },
+  "05_convenience_bench_woman": {
+   "prompt": "Place & time: a bench in front of a convenience store at night, fluorescent glow from the store window, a cup of instant noodles and a canned drink beside her, a friend's blurred shoulder at the edge of the frame. Lead: woman in her early twenties, curly short hair, denim jacket, holding the phone out with both hands and staring at it wide-eyed, mouth slightly open in disbelief-joy, about to show the screen to the friend. Camera low, across the bench, warm-cold mixed light."
+  },
+  "06_studio_desk_morning_woman": {
+   "prompt": "Place & time: a bright morning at a desk by the window in a small studio apartment, mirror and skincare bottles, a mug of coffee, sun spilling on the desk, getting ready for the day. Lead: woman in her mid-twenties, hair half-dried in a towel, comfy cardigan, sitting cross-legged on the chair, phone propped against the mug, leaning in with narrowed eyes and a half-smile, deciding how to reply. Camera at desk height, slightly tilted, from the side."
+  }
+ }
+}

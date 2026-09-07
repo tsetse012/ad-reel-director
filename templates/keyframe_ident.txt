@@ -1,0 +1,11 @@
+IDENTITY LOCK — the lead is EXACTLY the person in the reference photos: {{nationality, age, face shape, hair, eye colour, skin}}, {{costume item by item}}, {{prop: black smartphone}}. Her/his expression is always {{allowed expressions: a relaxed soft smile or an open laugh}} — never squinting, never grimacing, no tongue out.
+{{SECOND SUBJECT}} is EXACTLY the one in the reference photos: {{coat/colour pattern, eye colour, size}}. Keep both identities identical to the references.
+
+Cinematic live-action film still, vertical 9:16, handheld camera (slight tilt, natural imperfection), 35mm lens, subtle film grain. Location: the SAME {{place}} as the location reference — {{6–8 fixed landmarks}}. {{time & light, same words as the concept}}. Mood: {{mood}}. Photorealistic, natural skin, real fur/fabric. Absolutely no text, no captions, no logos, no watermark, no borders.
+
+--- one SHOT block per keyframe; each job lists 3–5 refs in a fixed order and maps them by number ---
+Images 1-2 = the lead (face, and the pose panel closest to this shot). Image 3 = {{second subject panel}}. Image 4 = the location panel that shows THIS side of the room.
+SHOT: {{shot size + camera height + lens feel}}. {{Blocking in one breath: who is where, what the hands do, where the eyes look.}} {{Expression, stated POSITIVELY: "soft closed-lip smile, eyes open and bright, eyebrows slightly raised in fond amusement".}} {{Light on faces.}} {{What is in the soft foreground.}}
+
+Rule of thumb: describe what you WANT the face to do. "Concentrating, tongue tip out, eyes narrowed" produced a grimace that then propagated into 6 seconds of video. Positive wording ("relaxed soft smile") fixed it in one regeneration.
+Phone-screen keyframe: state exactly what is on the screen and end with "no readable text, buttons or interface labels — only {{the photo, the card and the glow}}". The model still tends to draw a tiny camera-app UI; if zero text matters, plan to comp the real screen for those 3 seconds.

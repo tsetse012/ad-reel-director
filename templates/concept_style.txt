@@ -1,0 +1,12 @@
+Cinematic live-action film still, vertical 9:16 frame, shot on a handheld camera (very slight tilt and natural imperfection, 35mm lens, shallow but not extreme depth of field, subtle film grain, natural motion-blur on edges).
+Setting: {{SETTING — one real, specific, lived-in place; list 6–10 period/texture details the model can grab: materials, signage, clutter, plants, vehicles}}.
+Time & light: {{TIME — e.g. early morning, warm low sun raking through the frame, long soft shadows, gentle haze, soft lens flare}}.
+Mood: {{MOOD — warm, cozy, friendly, hopeful, like a heartfelt commercial for a wholesome app}}.
+Characters: {{LEAD — age, look, clothes in plain words}} and {{SECOND — pet / partner / object; give the exact coat/colour pattern if it must stay consistent later}}.
+The lead holds a smartphone naturally as if about to {{ACTION}}; the face is visible and warmly expressive, approachable and genuine, not a model pose.
+Photorealistic, natural skin texture, real fur/fabric texture. Absolutely no text, no captions, no logos, no UI overlay, no watermark, no borders.
+
+--- variants (one job each; vary BACKGROUND × LEAD, keep everything above fixed) ---
+{{VARIANT 01: background flavour + lead flavour + what they are doing + camera height/angle}}
+{{VARIANT 02: ...}}
+(6 variants is the sweet spot: enough spread to pick a tone, cheap enough to regenerate — about $1 at quality=high.)

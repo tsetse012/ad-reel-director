@@ -1,0 +1,24 @@
+[1 ASSETS]  (r2v) @Image1 is the EXACT opening frame (0s) of Shot 1 — start the video on it. @Image2 is the lead's face identity, @Image3 the lead {{laughing / second expression}}, @Image4 the lead {{key pose}}. @Image5, @Image6 and @Image7 are the SAME {{place}} from three angles ({{wide / reverse / low}}): every frame of the video takes place in this exact room — {{fixed landmarks}}. The room layout, colours and light never change between shots. Keep the lead identical to @Image2–@Image4 in every frame.
+            (i2v) The FIRST frame is given: {{describe it in one sentence}}. The LAST frame is given: {{describe it in one sentence}}. Everything between must happen in THIS SAME place with the SAME {{landmarks}} — layout, colours and light never change.
+
+[2 SUMMARY] A heartfelt 30-second app commercial. {{Who}}, {{where/when}}, {{what happens in 3 beats}}. Emotional arc: {{A → B → C}}. {{Mood words}}. Entirely handheld camera, 35mm, subtle film grain. Light: {{sources, direction}}. Only THREE shots and only TWO cuts in the whole video (at 12s and at 18s); everything else is continuous handheld camera movement within a take.
+
+[3 LIVING MOTION RULE] (most important): there is never a frozen frame, never a still photograph, never a digital zoom or pan across a static image. At every moment {{the lead}} breathes, blinks, shifts weight, hair and clothes move, fingers move on the phone, {{the pet's ears/tail keep moving}}, and camera moves are real handheld moves through space with parallax, made while the subjects keep acting. Camera pushes and pulls are always accompanied by visible subject motion.
+
+[4 SHOTS — integer-second timestamps, 3 takes / 2 cuts]
+0s-12s (Shot 1, ONE continuous handheld take, starts exactly on {{@Image1 / the first frame}}): {{camera height}}. {{Beat 1 action}}. At about 2s {{lead}} says, {{tone}}, in {{language}}: "{{LINE 1}}" Only the lines inside quotes are spoken. From about 3s to 8s the camera {{rises / glides / circles}} in one continuous handheld move, with natural parallax against {{landmarks}}; while the camera travels {{lead does beat 2}}. By about 8s the framing is {{describe the mid framing — this replaces the old keyframe 2}}. Expression: {{positive wording}} — never frowning, never grimacing. At about 9s {{lead}} says quietly: "{{LINE 2}}" Only the lines inside quotes are spoken. At about 11s {{a single diegetic sound: shutter / tap}}. Sound: {{room tone, cloth, one prop sound}}.
+
+12s-18s (Shot 2, cut): close-up over the shoulder of the phone. Everything keeps moving: the thumb hovers and twitches, the phone tilts slightly, the chest rises, the camera drifts in slowly and unevenly like a real handheld push. On the screen: {{what happens on screen over ~3 seconds}}, at about 15s a short soft "ting" chime. The screen shows only {{allowed elements}}, no other words, buttons or labels. No dialogue.
+
+18s-30s (Shot 3, cut, then ONE continuous handheld take to the end): {{medium shot, camera height}}. {{Beat 4 — the emotional payoff, face largest in frame}}. At about 21s {{lead}} says, {{tone}}: "{{LINE 3}}" Only the lines inside quotes are spoken. From about 24s {{lead rises / walks / turns}}; as they move the camera walks backward in a continuous handheld move, dropping to a low wide angle and revealing the whole {{place}} — {{landmarks}} — settling into {{the last frame / the wide framing}} by about 28s. Through the final two seconds {{small continuing motions: steps, tail, sway, glow}}; the frame keeps breathing and never freezes, with {{empty sky / dark ceiling}} at the top of the frame for a logo later. Sound: {{laugh, footsteps, one send/shutter sound}}, then only quiet ambience. No dialogue after the line.
+
+[5 KEEP] handheld 35mm film look with subtle grain; the same place, the same light direction and the exact hues of {{the keyframes / first and last frames}}, no colour cast; identities never change; realistic physics and natural movement; real skin and real fur; continuous living motion in every second.
+
+[6 AUDIO] diegetic sounds only, the three {{language}} lines spoken clearly and naturally in {{voice description}}. No background music, no BGM, no singing, no humming. No subtitles, no captions, no on-screen text {{other than the single number on the phone screen}}, no logos, no watermark.
+
+--- notes ---
+* 30 s holds 4–6 shots at most; we use 3 takes / 2 cuts because every hard cut is a place where the background gets re-synthesised.
+* One line per take, each line inside the middle of its take, only where the face is large (lip-sync safety).
+* Do not say the app's name in dialogue; the end card does that. Line 3 should "hand over" to the end card.
+* "No BGM" is not taste: with audio ON the model sometimes lays its own music, which can trip the provider's copyright filter and fail the render.
+* Everything in [3] exists because a first render froze the picture and zoomed it at 15 s and 27 s.
