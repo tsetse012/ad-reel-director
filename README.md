@@ -20,7 +20,7 @@ Three spots made with this repo, each from concept to YouTube in an afternoon an
 | Jupnyangi — Maltese in a living room | https://youtube.com/shorts/4ufNKuxzklo | r2v |
 | Nunchi (눈치) — late-night reply anxiety | https://youtube.com/shorts/23wfNnE-F6E | r2v, start + sheets (A/B vs i2v in `examples/nunchi`) |
 
-Everything about those three — moveboards, the exact prompts, keyframes, QA strips, captions — is in [`examples/`](examples/).
+Everything about those three — moveboards, the exact prompts, keyframes, QA strips, captions — is in [`examples/`](examples/). The cat spot also has a full cut-by-cut teardown of the finished render (lighting plots, staging, palette, the dialogue the analyser heard) in [`examples/jupnyangi-cat/cutaway/`](examples/jupnyangi-cat/cutaway/) — the plan and the render match to the second.
 
 ## The method in one picture
 

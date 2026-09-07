@@ -18,3 +18,5 @@ the photo becomes a card, the cat head-bumps her knee. "오늘도 한 마리 주
 Route used: **reference-to-video with all 5 keyframes**. It rendered clean here, but on the third production
 this route smeared the background at every cut — see `../nunchi/` for the two routes we recommend instead.
 Costs: 6 concepts + 3 sheets + 4 keyframes ≈ $3 in stills, 2 × 30 s renders ≈ $8.
+
+**Post-render check:** the finished spot was torn down cut by cut with Cutaway — all four boards and the shot table are in [`cutaway/`](cutaway/). The machine cuts land exactly on the moveboard's 12 s / 18 s cuts.
